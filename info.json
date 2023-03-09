@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "72216c2de698070b67d5bddecd3faefbe3d74996",
+    "author": "santikka <santtu.tikka@protonmail.com>",
+    "time": "2023-03-09 15:31:46",
+    "files": 3,
+    "merge": false,
+    "message": "old rstan/windows warning, run-extended\n"
+  },
+  "repo": "https://github.com/ropensci/dynamite",
+  "pkg": "dynamite"
+}
