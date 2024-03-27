@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "d203595835ded9749a705a6ebfae8da33d3a01e9",
+    "author": "Santtu Tikka <santtu.tikka@jyu.fi>",
+    "time": "2024-03-27 14:38:43",
+    "files": 17,
+    "merge": false,
+    "message": "dynamice\n"
+  },
+  "repo": "https://github.com/ropensci/dynamite",
+  "pkg": "dynamite"
+}
