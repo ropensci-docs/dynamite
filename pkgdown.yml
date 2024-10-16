@@ -1,0 +1,12 @@
+pandoc: 3.2.1
+pkgdown: 2.1.0
+pkgdown_sha: ~
+articles:
+  dynamite_custom: dynamite_custom.html
+  dynamite_priors: dynamite_priors.html
+  dynamite_simulation: dynamite_simulation.html
+  dynamite: dynamite.html
+last_built: 2024-10-16T13:26Z
+urls:
+  reference: https://docs.ropensci.org/dynamite/reference
+  article: https://docs.ropensci.org/dynamite/articles

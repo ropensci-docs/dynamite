@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "71dca1251ec6a3d4c7c50c6844827edc7d6794b4",
+    "author": "Santtu Tikka <santtu.tikka@jyu.fi>",
+    "time": "2024-10-16 12:40:39",
+    "files": 3,
+    "merge": false,
+    "message": "fix cmdstanr reference in docs\n"
+  },
+  "repo": "https://github.com/ropensci/dynamite",
+  "pkg": "dynamite"
+}
