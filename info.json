@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "05b8086e33033f4d7de383c0261918a8985f4b2f",
+    "author": "santikka <santtu.tikka@jyu.fi>",
+    "time": "2026-04-27T08:39:30Z",
+    "files": 1,
+    "merge": false,
+    "message": "unload namespace fot single fit\n"
+  },
+  "repo": "https://github.com/ropensci/dynamite",
+  "pkg": "dynamite",
+  "time": "2026-08-30T07:27:23Z"
+}
