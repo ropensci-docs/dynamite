@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "9383edfb1708e4a44bdd06325ed2789f2566cf60",
+    "author": "santikka <santtu.tikka@jyu.fi>",
+    "time": "2026-10-16T08:43:52Z",
+    "files": 1,
+    "merge": false,
+    "message": "test cmdstanr 1.0.0, run-extended\n"
+  },
+  "repo": "https://github.com/ropensci/dynamite",
+  "pkg": "dynamite",
+  "time": "2026-10-16T12:44:25Z"
+}
